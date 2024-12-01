@@ -1,0 +1,34 @@
+baseURL = 'https://ashruidan.github.io/'
+languageCode = 'en-us'
+title = 'Ashruidan Site'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+enableEmoji = true
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Blog'
+    url = '/posts/'
+
+[params]
+  sitename = "Ashruidan"
+  defaultColor = "dark"
+  description = "Site"
+
