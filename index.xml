@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashruidan Site</title>
+    <link>https://ashruidan.github.io/</link>
+    <description>Recent content on Ashruidan Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2024 04:20:13 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 01 - The Rule of Capture</title>
+      <link>https://ashruidan.github.io/posts/day-01---the-rule-of-capture/</link>
+      <pubDate>Sun, 01 Dec 2024 04:20:13 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-01---the-rule-of-capture/</guid>
+      
+      <description>&lt;p&gt;Welcome to the &lt;strong&gt;Advent of Go&lt;/strong&gt;, a 25 chapters long guide where each day is built upon the concepts of the previous ones.&lt;/p&gt;
+&lt;p&gt;This guide will not delve into the history or variations of Go, instead it will help you acquire the necessary knowledge and skills to perceive the depth of this game.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;At its core, Go is a two-player turn-based game where one player uses black stones and the other uses white. Black always plays first. On each turn, players can either place a stone on an empty intersection of the board or pass their turn. Once placed, a stone cannot be moved. However, stones can be removed through &lt;strong&gt;capture&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
