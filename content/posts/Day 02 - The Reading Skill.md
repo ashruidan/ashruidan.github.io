@@ -42,7 +42,7 @@ But a ladder can be broken if a friendly stone is in the path of the ladder.
 
 - **Your challenge**: Can you capture the white stone in this situation, or will White escape atari? White plays first.
 - **Answer** : Answers are at the end of the article.
-## Net
+## The Net
 
 ![day02_net](/images/day02_net.png)
 
@@ -50,7 +50,7 @@ A **net** surrounds a stone, making escape impossible even when liberties seem a
 
 - **Your challenge**: Can the white stone escape from the net? Try to read out the sequence.
 
-## The double atari
+## The Double Atari
 
 ![day02_doubleatari](/images/day02_doubleatari.png)
 
