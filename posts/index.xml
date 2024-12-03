@@ -6,7 +6,23 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2024 10:36:50 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 09:44:56 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 03 - The Suicide Rule</title>
+      <link>https://ashruidan.github.io/posts/day-03---the-suicide-rule/</link>
+      <pubDate>Tue, 03 Dec 2024 09:44:56 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-03---the-suicide-rule/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;Suicide Rule&lt;/strong&gt; prevents self-capturing moves and has implications for &lt;strong&gt;life and death&lt;/strong&gt; on the board.&lt;/p&gt;
+&lt;h2 id=&#34;self-capture-as-illegal-moves&#34;&gt;Self capture as illegal Moves&lt;/h2&gt;
+&lt;p&gt;In Go, a player cannot place a stone on an empty intersection completely surrounded by their opponent&amp;rsquo;s stones. Such a move would leave the stone with no liberties and is considered illegal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashruidan.github.io/images/day03_illegal.png&#34; alt=&#34;day03_illegal&#34;&gt;&lt;/p&gt;
+&lt;p&gt;However, there is an exception: if the surrounding opponent&amp;rsquo;s stones are also completely surrounded by your stones, the move is allowed. This is because, in capturing the opponent&amp;rsquo;s stones, your stone regains its liberties.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 02 - The Reading Skill</title>
       <link>https://ashruidan.github.io/posts/day-02---the-reading-skill/</link>
