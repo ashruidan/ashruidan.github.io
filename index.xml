@@ -6,7 +6,21 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2024 09:44:56 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Dec 2024 11:22:17 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 04 - The Life and Death</title>
+      <link>https://ashruidan.github.io/posts/day-04---the-life-and-death/</link>
+      <pubDate>Wed, 04 Dec 2024 11:22:17 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-04---the-life-and-death/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;We’ve learned how to capture, how to read sequences, and how to make life by creating two eyes. Now it’s time to delve deeper into the concept of &lt;strong&gt;life and death&lt;/strong&gt; and discover how identifying the &lt;strong&gt;vital point&lt;/strong&gt; of a group can help you save your stones or kill your opponent’s.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-life-and-death&#34;&gt;What is Life and Death?&lt;/h2&gt;
+&lt;p&gt;In Go, &lt;strong&gt;life and death&lt;/strong&gt; refers to whether a group of stones can survive or be captured. A group is considered alive if it can secure two eyes, while a group without sufficient space to make two eyes is doomed to die. It is critical to recognize the status of your group to get the initiative and play first the vital point to get the control into the life and death of your groups or opponent&amp;rsquo;s groups.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 03 - The Suicide Rule</title>
       <link>https://ashruidan.github.io/posts/day-03---the-suicide-rule/</link>
