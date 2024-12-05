@@ -37,7 +37,7 @@ This sequence demonstrates the strategic balance in ko fights, where both player
 When the balance in a ko is tipped, it can lead to a **picnic ko**—a situation where winning the ko brings significant damage to the opponent, while losing it results in only a minor loss for you.
 ## Practice with Ko  
 
-To continue honing your skills, revisit the **101weiqi** website introduced in the previous chapter : [101weiqi](www.101weiqi.com).
+To continue honing your skills, revisit the **101weiqi** website introduced in the previous chapter : [101weiqi](https://www.101weiqi.com).
 
 ## Proverb of the Day  
 
