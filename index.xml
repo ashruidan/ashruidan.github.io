@@ -6,7 +6,21 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Dec 2024 11:22:17 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Dec 2024 12:20:37 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 05 - The Repetition Rule</title>
+      <link>https://ashruidan.github.io/posts/day-05---the-repetition-rule/</link>
+      <pubDate>Thu, 05 Dec 2024 12:20:37 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-05---the-repetition-rule/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a typical game of Go, every move leads to a new and unique position. However, there is a special scenario where the game could fall into an endless cycle of repeated moves. To prevent this, the &lt;strong&gt;Repetition Rule&lt;/strong&gt; ensures that no position can be repeated.&lt;/p&gt;
+&lt;h2 id=&#34;preventing-infinite-loops&#34;&gt;Preventing Infinite Loops&lt;/h2&gt;
+&lt;p&gt;In certain situations, such as the one shown below, a player can capture a stone, only for the opponent to recapture it on the next turn, creating a loop. This would result in an endless game.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 04 - The Life and Death</title>
       <link>https://ashruidan.github.io/posts/day-04---the-life-and-death/</link>
