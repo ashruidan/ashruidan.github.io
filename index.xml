@@ -6,7 +6,21 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2024 12:20:37 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Dec 2024 12:18:48 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 06 - The Counting Skill</title>
+      <link>https://ashruidan.github.io/posts/day-06---the-counting-skill/</link>
+      <pubDate>Fri, 06 Dec 2024 12:18:48 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-06---the-counting-skill/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;With the knowledge we’ve gained, we are now equipped to understand the end of the game. The final phase is where players consolidate their territories, resolve conflicts, and prepare for the scoring phase. This is where &lt;strong&gt;counting skill&lt;/strong&gt; becomes invaluable, allowing players to determine the game’s outcome even before the board is completely settled.&lt;/p&gt;
+&lt;h2 id=&#34;territory-and-the-endgame&#34;&gt;Territory and the Endgame&lt;/h2&gt;
+&lt;p&gt;In Go, the endgame is about solidifying &lt;strong&gt;territory&lt;/strong&gt;. This means closing off any remaining gaps in your claimed areas, resolving any ongoing ko fights, and securing contested spaces.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 05 - The Repetition Rule</title>
       <link>https://ashruidan.github.io/posts/day-05---the-repetition-rule/</link>
