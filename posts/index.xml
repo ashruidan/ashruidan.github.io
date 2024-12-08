@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Dec 2024 15:13:20 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 13:38:25 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 08 - The First Moves</title>
+      <link>https://ashruidan.github.io/posts/day-08---the-first-moves/</link>
+      <pubDate>Sun, 08 Dec 2024 13:38:25 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-08---the-first-moves/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Now that you have a rudimentary knowledge of the game, you may feel ready to try playing on a larger board. But a common question arises: &lt;strong&gt;Where should I place my first stones on the board, and why?&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;where-to-play&#34;&gt;Where to Play&lt;/h2&gt;
+&lt;p&gt;In Go, you can play anywhere on the board. However, if you observe experienced players, you’ll notice they often place their opening moves around the corner&amp;rsquo;s &lt;strong&gt;hoshi&lt;/strong&gt; points.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 07 - The First Game</title>
       <link>https://ashruidan.github.io/posts/day-07---the-first-game/</link>
