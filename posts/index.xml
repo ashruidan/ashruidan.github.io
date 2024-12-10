@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2024 14:22:57 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 18:23:21 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 10 - The Basic Technique</title>
+      <link>https://ashruidan.github.io/posts/day-10---the-basic-technique/</link>
+      <pubDate>Tue, 10 Dec 2024 18:23:21 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-10---the-basic-technique/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Go is not just about placing stones, it’s about placing them effectively. To play well, you need to understand how to you navigate the board, whether you’re building, attacking, or defending.&lt;/p&gt;
+&lt;h2 id=&#34;techniques-between-stones-of-the-same-color&#34;&gt;Techniques Between Stones of the Same Color&lt;/h2&gt;
+&lt;p&gt;When connecting or extending your stones, you have several fundamental techniques. Some are fast but fragile, slow but strong or aiming at a balance of stability and speed. These moves strengthen your position, help you claim territory, or improve your mobility :&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 09 - The Opening</title>
       <link>https://ashruidan.github.io/posts/day-09---the-opening/</link>
