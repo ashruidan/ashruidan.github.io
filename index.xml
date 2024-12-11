@@ -6,7 +6,28 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2024 18:23:21 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 16:48:29 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 11 - The Joseki</title>
+      <link>https://ashruidan.github.io/posts/day-11---the-joseki/</link>
+      <pubDate>Wed, 11 Dec 2024 16:48:29 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-11---the-joseki/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Joseki&lt;/strong&gt; are sequences of moves that are considered balanced for both sides, typically occurring in the corners. Joseki are not just fixed answers but strategic tools that depend on the overall board context. They provide a foundation for local play while influencing the global position.&lt;/p&gt;
+&lt;h2 id=&#34;five-common-joseki-for-beginners&#34;&gt;Five Common Joseki for Beginners&lt;/h2&gt;
+&lt;p&gt;Here are five joseki every beginner should know, focusing on the corner plays introduced earlier:&lt;/p&gt;
+&lt;h3 id=&#34;1-ai-approach-joseki&#34;&gt;&lt;strong&gt;1. AI Approach Joseki&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;White approaches Black’s hoshi.&lt;/li&gt;
+&lt;li&gt;Black defends by extending at the opposite direction.&lt;/li&gt;
+&lt;li&gt;White fight Black for the control of the corner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashruidan.github.io/images/day11_joseki1.png&#34; alt=&#34;day11_joseki1&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 10 - The Basic Technique</title>
       <link>https://ashruidan.github.io/posts/day-10---the-basic-technique/</link>
