@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Dec 2024 16:48:29 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2024 18:20:37 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 12 - The Connection</title>
+      <link>https://ashruidan.github.io/posts/day-12---the-connection/</link>
+      <pubDate>Thu, 12 Dec 2024 18:20:37 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-12---the-connection/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In Go, the concepts of &lt;strong&gt;connection&lt;/strong&gt; and &lt;strong&gt;cutting&lt;/strong&gt; lie at the heart of the game. Connecting your stones strengthens your groups, ensuring they survive and work together. Cutting, on the other hand, aims to divide your opponent’s groups, making them weaker and creating opportunities to attack.&lt;/p&gt;
+&lt;h2 id=&#34;connections&#34;&gt;&lt;strong&gt;Connections&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Connecting stones allows you to build strong groups and secure their survival. A well-connected group is harder to attack, provides stability, and can exert more influence on the board.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 11 - The Joseki</title>
       <link>https://ashruidan.github.io/posts/day-11---the-joseki/</link>
