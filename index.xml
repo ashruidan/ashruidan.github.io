@@ -6,7 +6,25 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2024 18:20:37 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Dec 2024 17:13:39 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 13 - The Shape</title>
+      <link>https://ashruidan.github.io/posts/day-13---the-shape/</link>
+      <pubDate>Fri, 13 Dec 2024 17:13:39 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-13---the-shape/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In Go, shapes refer to the arrangement of stones on the board. A good shape efficiently connects stones, maximizes liberties, and prepares for future moves. A bad shape, on the other hand, is inefficient, easy to cut, or lacks flexibility.&lt;/p&gt;
+&lt;h2 id=&#34;good-shapes&#34;&gt;&lt;strong&gt;Good Shapes&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;1-the-bamboo-joint&#34;&gt;&lt;strong&gt;1. The Bamboo Joint&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashruidan.github.io/images/day13_bamboo.png&#34; alt=&#34;day13_bamboo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The bamboo joint consists of two diagonal connections. It is uncuttable with enough liberties and provides a strong connection between stones.&lt;/p&gt;
+&lt;h3 id=&#34;2-the-tigers-mouth&#34;&gt;&lt;strong&gt;2. The Tiger’s Mouth&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashruidan.github.io/images/day13_tigermouth.png&#34; alt=&#34;day13_tigermouth&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 12 - The Connection</title>
       <link>https://ashruidan.github.io/posts/day-12---the-connection/</link>
