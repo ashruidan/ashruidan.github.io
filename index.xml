@@ -6,7 +6,21 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2024 18:22:03 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Dec 2024 21:29:46 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 16 - The Evaluation Skill</title>
+      <link>https://ashruidan.github.io/posts/day-16---the-evaluation-skill/</link>
+      <pubDate>Mon, 16 Dec 2024 21:29:46 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-16---the-evaluation-skill/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In Go, navigating the complex situations of the midgame requires the use of your &lt;strong&gt;evaluation skill&lt;/strong&gt;. This skill involves analyzing the distribution of both territory and influence across the board. By mastering evaluation, players can assess who is leading, decide what groups or areas to attack or defend, and identify moves that can shift or maintain the balance of the game.&lt;/p&gt;
+&lt;h2 id=&#34;positional-judgment&#34;&gt;Positional Judgment&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Positional judgment&lt;/strong&gt; forms the foundation of evaluation skills. It includes:&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 15 - The Framework</title>
       <link>https://ashruidan.github.io/posts/day-15---the-framework/</link>
