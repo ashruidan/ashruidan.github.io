@@ -6,7 +6,24 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2024 21:29:46 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 21:34:47 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 17 - The Attack and Defense</title>
+      <link>https://ashruidan.github.io/posts/day-17---the-attack-and-defense/</link>
+      <pubDate>Tue, 17 Dec 2024 21:34:47 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-17---the-attack-and-defense/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Choosing between attack and defense can be challenging. To make the right decision, you need to focus on what’s urgent versus what’s big, and prioritize your own groups before targeting your opponent.&lt;/p&gt;
+&lt;h2 id=&#34;urgent-vs-big-move&#34;&gt;Urgent vs Big Move&lt;/h2&gt;
+&lt;h3 id=&#34;urgent-move&#34;&gt;Urgent Move&lt;/h3&gt;
+&lt;p&gt;Urgent moves are about handling immediate threats. Even if the stakes seem small, urgent moves prevent disasters and stabilize your position.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ashruidan.github.io/images/day17_urgent.png&#34; alt=&#34;day17_urgent&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In this example, we can see that the move in A8 (triangle) is an urgent move because it decides the life and death of the Black group.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 16 - The Evaluation Skill</title>
       <link>https://ashruidan.github.io/posts/day-16---the-evaluation-skill/</link>
