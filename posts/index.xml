@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2024 21:34:47 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 18:10:45 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 18 - The Capturing Race</title>
+      <link>https://ashruidan.github.io/posts/day-18---the-capturing-race/</link>
+      <pubDate>Wed, 18 Dec 2024 18:10:45 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-18---the-capturing-race/</guid>
+      
+      <description>&lt;h1 id=&#34;chapter-18-the-capturing-race&#34;&gt;Chapter 18: The Capturing Race&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the world of Go, life and death situations often boil down to a &lt;strong&gt;capturing race&lt;/strong&gt; (semeai in japanese), where two groups compete to surround and capture each other. Mastering the capturing race is essential for determining which groups can survive and which must perish. It involves counting liberties, planning efficient moves, and understanding shared life situations like seki.&lt;/p&gt;
+&lt;h2 id=&#34;understanding-the-capturing-race&#34;&gt;Understanding the Capturing Race&lt;/h2&gt;
+&lt;p&gt;A capturing race occurs when at least two opposing groups of stones are locked in a struggle for survival. The winner is the group that captures the other by filling its liberties while keeping its own intact.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 17 - The Attack and Defense</title>
       <link>https://ashruidan.github.io/posts/day-17---the-attack-and-defense/</link>
