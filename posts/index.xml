@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2024 18:10:45 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Dec 2024 22:41:40 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 19 - The Initiative</title>
+      <link>https://ashruidan.github.io/posts/day-19---the-initiative/</link>
+      <pubDate>Thu, 19 Dec 2024 22:41:40 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-19---the-initiative/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In Go, controlling the &lt;strong&gt;initiative&lt;/strong&gt;, the flow and tempo of the game, is a vital skill that separates skilled players from beginners. The concepts of &lt;strong&gt;sente&lt;/strong&gt;, &lt;strong&gt;gote&lt;/strong&gt; form the foundation of understanding initiative. Mastering these elements helps you determine whether you&amp;rsquo;re dictating the game or responding to your opponent.&lt;/p&gt;
+&lt;h2 id=&#34;sente&#34;&gt;Sente&lt;/h2&gt;
+&lt;p&gt;A move is said to be in &lt;strong&gt;sente&lt;/strong&gt; when it forces your opponent to respond. Sente allows you to dictate the game&amp;rsquo;s flow, steering the action to areas of the board you find most advantageous. Playing in sente enables you to make progress while keeping your opponent on the defensive.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 18 - The Capturing Race</title>
       <link>https://ashruidan.github.io/posts/day-18---the-capturing-race/</link>
