@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 22:41:40 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 23:27:32 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 20 - The Efficiency</title>
+      <link>https://ashruidan.github.io/posts/day-20---the-efficiency/</link>
+      <pubDate>Fri, 20 Dec 2024 23:27:32 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-20---the-efficiency/</guid>
+      
+      <description>&lt;h1 id=&#34;chapter-20-the-efficiency&#34;&gt;Chapter 20: The Efficiency&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Efficiency is a core concept in Go that revolves around making the most of every move. In an ideal game, every stone placed should contribute to a player&amp;rsquo;s goals, whether that&amp;rsquo;s solidifying territory, attacking opponents, or reinforcing weak groups. Inefficiency wastes moves and leaves opportunities for your opponent.&lt;/p&gt;
+&lt;h2 id=&#34;efficient-play&#34;&gt;Efficient Play&lt;/h2&gt;
+&lt;p&gt;Efficient moves are those that achieve maximum impact with minimal effort. To play efficiently, consider the following:&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 19 - The Initiative</title>
       <link>https://ashruidan.github.io/posts/day-19---the-initiative/</link>
