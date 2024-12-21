@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2024 23:27:32 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 22:21:35 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 21 - The Strategy</title>
+      <link>https://ashruidan.github.io/posts/day-21---the-strategy/</link>
+      <pubDate>Sat, 21 Dec 2024 22:21:35 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-21---the-strategy/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;While tactics focus on local battles, strategy involves long-term planning and the overarching approach to securing victory. Developing a strong strategic mindset helps players see the board as a whole and recognize how moves in one area influence the entire game.&lt;/p&gt;
+&lt;h2 id=&#34;the-importance-of-strategy&#34;&gt;The Importance of Strategy&lt;/h2&gt;
+&lt;p&gt;Strategic play ensures that every move aligns with a broader goal. Without strategy, even well-executed tactics can fail to lead to victory. Strategy in Go involves :&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 20 - The Efficiency</title>
       <link>https://ashruidan.github.io/posts/day-20---the-efficiency/</link>
