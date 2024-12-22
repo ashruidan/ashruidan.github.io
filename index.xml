@@ -6,7 +6,21 @@
     <description>Recent content on Ashruidan Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Dec 2024 22:21:35 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Dec 2024 22:35:15 +0100</lastBuildDate><atom:link href="https://ashruidan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 22 - The Style</title>
+      <link>https://ashruidan.github.io/posts/day-22---the-style/</link>
+      <pubDate>Sun, 22 Dec 2024 22:35:15 +0100</pubDate>
+      
+      <guid>https://ashruidan.github.io/posts/day-22---the-style/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In Go, your style is the personal touch you bring to the game. It reflects your preferences, strengths, and approach to solving problems on the board. At lower levels, you might not be able to discern your style. Only with experience and exposure to different ways of playing will you start noticing patterns that define your unique approach to the game.&lt;/p&gt;
+&lt;h2 id=&#34;balance-of-power&#34;&gt;Balance of Power&lt;/h2&gt;
+&lt;p&gt;One of the easiest ways to define your style is by understanding your inclination toward the balance between &lt;strong&gt;power&lt;/strong&gt; and &lt;strong&gt;territory&lt;/strong&gt; :&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Day 21 - The Strategy</title>
       <link>https://ashruidan.github.io/posts/day-21---the-strategy/</link>
